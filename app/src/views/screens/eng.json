@@ -1,0 +1,15 @@
+{
+	"questionnaire": {
+		"options": {
+			"true": "Yes",
+			"false": "No"
+		},
+		"1": {
+			"1": "Have you lost the sense of smell and taste?",
+			"2": "Do you have have a severe or significant cough?",
+			"3": "Are you feeling fatigued?",
+			"4": "Have you skipped a meal in last week?",
+			"5": "Are you feeling difficulty in breathing?"
+		}
+	}
+} 
